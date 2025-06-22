@@ -1,16 +1,13 @@
-## Hi there 👋
+## 🚑 Virtual Medical Mission Server
 
-<!--
-**VMM-Server/VMM-Server** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A server running on digital duct tape and miracles  
+> Made by [@DevomB](https://github.com/DevomB)  
+> Built for [@Virtual-Medical-Mission](https://github.com/Virtual-Medical-Mission)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 Purpose
+
+This server powers the backend for the Virtual Medical Mission platform — delivering global, accessible healthcare through a custom-built EMR and eVisit system. 
+
+---
