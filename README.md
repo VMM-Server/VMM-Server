@@ -1,4 +1,4 @@
-s## 🚑 Virtual Medical Mission Server
+## 🚑 Virtual Medical Mission Server
 
 A server running on digital duct tape and miracles  
 > Made by [@DevomB](https://github.com/DevomB)  
